@@ -47,7 +47,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gitee.com/lichadeker/CatVodTVSpider/raw/master/xpath/yinghua.json"
+            "ext": "https://gitee.com/lichadeker/CatVodTVSpider/blob/master/xpath/yinghua.json"
         },
         {
             "key": "csp_appys_v1_皮皮动漫",
