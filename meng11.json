@@ -38,6 +38,16 @@
 			"api": "https://maoyingshi-api.tvan.xyz/api.php/provide/vod/",
 			"playUrl": "https://vip.aiaine.com/api/?type=app&key=hFgGEvnaJcDrikSn8k&url="
 		},
+         {
+		"key": "csp_appys_v1_4K屋",
+		"name": "4K屋(搜)",
+		"type": 3,
+		"api": "csp_AppYs",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://1080p.one/mogai_api.php/v1.vod"
+	    }, 
 		{
 			"key": "csp_yinghua",
 			"name": "樱花动漫(XP)",
