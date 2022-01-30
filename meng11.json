@@ -14,7 +14,7 @@
 			"type": 3,
 			"api": "csp_XPathMac",
 			"searchable": 1,
-			"quickSearch": 0,
+			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://lichadeker.coding.net/p/mao/d/CatVodTVSpider/git/raw/master/xpath/lezhutv.json?download=true"
 		},
