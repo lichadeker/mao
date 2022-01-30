@@ -2902,6 +2902,6 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "spider": "https://pglblb-1307091970.cos.ap-guangzhou.myqcloud.com/S_custom_spider.jar",
+    "spider": "https://gitee.com/lichadeker/CatVodTVSpider/blob/master/jar/custom_spider.jar",
     "wallpaper": "https://picsum.photos/1080/"
 }
