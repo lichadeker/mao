@@ -32,7 +32,7 @@
         {
             "key": "喵派蓝光",
             "name": "喵派蓝光",
-            "type": 0,
+            "type": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
