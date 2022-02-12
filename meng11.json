@@ -1,12 +1,12 @@
 {
 	"sites": [{
 			"key": "csp_Buka",
-			"name": "Meng的影视库1-30贺岁",
-			"type": 3,
-			"api": "csp_Buka",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1
+		"name": "默认主页-内部学习交流-请勿传播-20220207版本",
+		"type": 3,
+		"api": "csp_Buka",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1
 		},
 		{
 			"key": "csp_xpath_lezhutv",
