@@ -863,7 +863,7 @@
 		"ext": "https://app.linzhiyuan.xyz/xgapp.php/v1/"
 	}, {
 		"key": "csp_appys_v1_80K影视",
-		"name": "80K影视(猫群:-----------)",
+		"name": "80K影视",
 		"type": 3,
 		"api": "csp_AppYs",
 		"searchable": 1,
@@ -881,7 +881,7 @@
 		"ext": "http://119.29.121.48:8088/api.php/v1.vod"
 	}, {
 		"key": "csp_appys_玺心影视",
-		"name": "玺心影视(猫群:-----------)",
+		"name": "玺心影视",
 		"type": 3,
 		"api": "csp_AppYs",
 		"searchable": 1,
