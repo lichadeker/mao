@@ -1,7 +1,7 @@
 {
 	"sites": [{
 		"key": "csp_xpath_01-猫群自维护源00",
-		"name": "Meng22的影视库2022-3-14",
+		"name": "MengV2的影视库2022-3-14测试",
 		"type": 3,
 		"api": "csp_XPath",
 		"searchable": 0,
