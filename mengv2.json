@@ -1,7 +1,7 @@
 {
 	"sites": [{
 		"key": "csp_xpath_01-猫群自维护源00",
-		"name": "mengV2的影视库2022-3-14测试",
+		"name": "默认主页-内部学习交流-请勿传播-20220313版本",
 		"type": 3,
 		"api": "csp_XPath",
 		"searchable": 0,
@@ -10,25 +10,14 @@
 		"ext": "http://www.maotv.club/json/00-%E9%AA%9A%E7%81%AB.json"
 	}, {
 		"key": "csp_xpath_猫群自维护源01",
-		"name": "乐猪",
+		"name": "乐猪-资源皆来自网上搜集-请勿商用盈利",
 		"type": 3,
 		"api": "csp_XPathMac",
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
 		"ext": "http://www.maotv.club/json/01-%E4%B9%90%E7%8C%AAtv.json"
-	}, 
-    {
-		"key": "csp_appys_超级剧场",
-		"name": "超级剧场(搜)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://ccxg.xazhutu.com/xgapp.php/v1/"
-	},
-    {
+	}, {
 		"key": "csp_xpath_猫群自维护源02",
 		"name": "极品",
 		"type": 3,
@@ -37,18 +26,7 @@
 		"quickSearch": 0,
 		"filterable": 1,
 		"ext": "http://www.maotv.club/json/02-%E6%9E%81%E5%93%81%E6%9E%81%E9%93%BE_20220312.json"
-	}, 
-    {
-		"key": "csp_appys_v1_4K屋",
-		"name": "4K屋(搜)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://1080p.one/mogai_api.php/v1.vod"
-	},
-    {
+	}, {
 		"key": "csp_xpath_猫群自维护源03",
 		"name": "师兄",
 		"type": 3,
@@ -105,226 +83,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
-	}, 
-    {"key":"加勒比(18+)","name":"加勒比(18+)","type":0,"api":"https://jialiapi.com/api.php/Seacms/vod/at/xml","playUrl":""},{"key":"银龙(18+)","name":"银龙（18+）","type":0,"api":"https://yinlong.tv/api.php/provide/vod/at/xml","playUrl":""},{"key":"一本道(18+)","name":"一本道(18+)","type":0,"api":"http://caiji03.com/home/cjapi/44f683a84163b3523afe57c2e008bc8c/vod/xml","playUrl":""},{"key":"工厂(18+)","name":"工厂(18+)","type":0,"api":"https://www.016caiji.com/home/cjapi/7cbbc409ec990f19c78c75bd1e06f215/vod/xml","playUrl":""},{"key":"花椒(18+)","name":"花椒(18+)","type":1,"api":"https://apihjzy.com/api.php/provide/vod/","playUrl":""},{"key":"环亚(18+)","name":"环亚(18+)","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","playUrl":""},
-{
-    "key": "KoiFiE",
-    "name": "芒果资源vod1(18+)",
-    "type": 1,
-    "api": "https://www.mgav1.cc/api.php/provide/vod/",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-{
-    "key": "YCqc5y",
-    "name": "鲨鱼影视(18+)",
-    "type": 1,
-    "api": "https://shayuapi.com/api.php/provide/vod/",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-
-{
-    "key": "lb",
-    "name": "乐播(18+)",
-    "type": 1,
-    "api": "https://lbapi9.com/api.php/provide/vod/",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-  {
-    "key": "76",
-    "name": "76(18+)",
-    "type": 0,
-    "api": "http://m.7777688.com/inc/api.php",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-{
-    "key": "佳丽tv",
-    "name": "佳丽tv(18+)",
-    "type": 0,
-    "api": "https://jialiapi.com/api.php/provide/vod/at/xml",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-{
-    "key": "探",
-    "name": "探(18+)",
-    "type": 1,
-    "api": "https://apittzy.com/api.php/provide/vod/",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-{
-    "key": "A",
-    "name": "A(18+)",
-    "type": 0,
-    "api": "http://m.7777688.com/inc/api.php",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-{
-    "key": "佳",
-    "name": "佳(18+)",
-    "type": 0,
-    "api": "https://api.jializyzapi.com/inc/api.php",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-{
-    "key": "袜",
-    "name": "袜(18+)",
-    "type": 1,
-    "api": "https://siwazyw.net/api.php/provide/vod/",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-{
-    "key": "乐",
-    "name": "乐(18+)",
-    "type": 1,
-    "api": "https://lbapi9.com/api.php/provide/vod/",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-  {
-    "key": "字",
-    "name": "中字(18+)",
-    "type": 0,
-    "api": "http://zmcj88.com/sapi?ac=videolist",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-{
-    "key": "J",
-    "name": "J(18+)",
-    "type": 0,
-    "api": "http://mygzycj.com/api.php?ac=list",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-{
-    "key": "S",
-    "name": "S优(18+)",
-    "type": 0,
-    "api": "http://secj8.com/inc/sapi.php?ac=videolist",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-{
-    "key": "速",
-    "name": "速(18+)",
-    "type": 0,
-    "api": "http://www.ggmmzy.com:9999/inc/xml",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-{
-    "key": "天",
-    "name": "三级(18+)",
-    "type": 0,
-    "api": "http://bttcj.com/inc/sapi.php?ac=videolist",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-{
-    "key": "番",
-    "name": "番(18+)",
-    "type": 1,
-    "api": "http://fhapi9.com/api.php/provide/vod/",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-{
-    "key": "来",
-    "name": "来(18+)",
-    "type": 0,
-    "api": "http://llzxcj.com/inc/sck.php?ac=videolist",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-{
-    "key": "秀",
-    "name": "秀(18+)",
-    "type": 1,
-    "api": "https://api.xiuseapi.com/api.php/provide/vod/",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-{
-    "key": "ck1",
-    "name": "ck伦理三级(18+)",
-    "type": 1,
-    "api": "https://ckzy.me/api.php/provide/vod/",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-{
-    "key": "KoE2",
-    "name": "芒果资源xml0(18+)",
-    "type": 0,
-    "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-{
-    "key": "狼",
-    "name": "狼(18+)",
-    "type": 0,
-    "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-{
-    "key": "玖",
-    "name": "玖(18+)",
-    "type": 0,
-    "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-{
-    "key": "桃",
-    "name": "桃(18+)",
-    "type": 1,
-    "api": "https://api.taoseapi.com/api.php/provide/vod/",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-{
-    "key": "富",
-    "name": "富(18+)",
-    "type": 0,
-    "api": "http://f2dcj6.com/sapi/?ac=videolist",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0
-  },
-    {
+	}, {
 		"key": "csp_appys_秒播1",
 		"name": "秒播",
 		"type": 3,
