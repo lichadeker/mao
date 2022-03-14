@@ -403,7 +403,7 @@
 		"ext": "https://xays6677.com/mogai_api.php/v1.vod"
 	}, {
 		"key": "csp_xpath_猫群自维护源21",
-		"name": "樱花",
+		"name": "樱花动漫",
 		"type": 3,
 		"api": "csp_XPath",
 		"searchable": 1,
@@ -412,7 +412,7 @@
 		"ext": "http://www.maotv.club/json/21-%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.json"
 	}, {
 		"key": "csp_xpath_猫群自维护源22",
-		"name": "巴士",
+		"name": "巴士动漫",
 		"type": 3,
 		"api": "csp_XPath",
 		"searchable": 1,
@@ -421,7 +421,7 @@
 		"ext": "http://www.maotv.club/json/22-%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"
 	}, {
 		"key": "csp_xpath_猫群自维护源23",
-		"name": "AGE",
+		"name": "AGE动漫",
 		"type": 3,
 		"api": "csp_XPath",
 		"searchable": 1,
