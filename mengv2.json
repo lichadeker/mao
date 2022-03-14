@@ -94,7 +94,11 @@
 		"filterable": 1,
 		"ext": "http://www.maotv.club/json/04-%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
 	}, 
-{"key":"加勒比(18+)","name":"加勒比(18+)","type":0,"api":"https://jialiapi.com/api.php/Seacms/vod/at/xml","playUrl":""},{"key":"银龙(18+)","name":"银龙（18+）","type":0,"api":"https://yinlong.tv/api.php/provide/vod/at/xml","playUrl":""},{"key":"一本道(18+)","name":"一本道(18+)","type":0,"api":"http://caiji03.com/home/cjapi/44f683a84163b3523afe57c2e008bc8c/vod/xml","playUrl":""},{"key":"工厂(18+)","name":"工厂(18+)","type":0,"api":"https://www.016caiji.com/home/cjapi/7cbbc409ec990f19c78c75bd1e06f215/vod/xml","playUrl":""},{"key":"花椒(18+)","name":"花椒(18+)","type":1,"api":"https://apihjzy.com/api.php/provide/vod/","playUrl":""},{"key":"环亚(18+)","name":"环亚(18+)","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","playUrl":""},
+{"key":"银龙(18+)","name":"银龙（18+）","type":0,"api":"https://yinlong.tv/api.php/provide/vod/at/xml","playUrl":""},
+{"key":"一本道(18+)","name":"一本道(18+)","type":0,"api":"http://caiji03.com/home/cjapi/44f683a84163b3523afe57c2e008bc8c/vod/xml","playUrl":""},
+{"key":"工厂(18+)","name":"工厂(18+)","type":0,"api":"https://www.016caiji.com/home/cjapi/7cbbc409ec990f19c78c75bd1e06f215/vod/xml","playUrl":""},
+{"key":"花椒(18+)","name":"花椒(18+)","type":1,"api":"https://apihjzy.com/api.php/provide/vod/","playUrl":""},
+{"key":"环亚(18+)","name":"环亚(18+)","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","playUrl":""},
 {
     "key": "KoiFiE",
     "name": "芒果资源vod1(18+)",
