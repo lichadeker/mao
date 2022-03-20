@@ -433,7 +433,7 @@
 		"quickSearch": 0,
 		"filterable": 1,
 		"ext": "http://chaorenbb.com/api.php/v1.vod"
-	} {
+	}, {
 		"key": "csp_appys_v1_爱美剧",
 		"name": "爱美剧(搜)",
 		"type": 3,
