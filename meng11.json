@@ -1,7 +1,7 @@
 {
     "sites": [{
 		"key": "csp_xpath_01-猫群自维护源00",
-		"name": "meng的影视库3-20",
+		"name": "Meng的影视库3-20",
 		"type": 3,
 		"api": "csp_XPath",
 		"searchable": 0,
