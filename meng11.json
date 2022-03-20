@@ -709,17 +709,6 @@
 		"api": "https://gcku.suboyun.vip/api.php/provide/vod/at/xml",
 		"playUrl": ""
 	}, {
-		"key": "淘片资源",
-		"name": "淘片资源(搜)",
-		"type": 0,
-		"api": "https://taopianzy.com/home/cjapi/as/mc10/vod/xml/m3u8",
-		"playUrl": ""
-	}, {
-		"key": "木偶TV",
-		"name": "木偶TV(搜)",
-		"type": 0,
-		"api": "http://vip.muoutv.com/api.php/provide/vod/at/xml"
-	}, {
 		"key": "乐多资源",
 		"name": "乐多资源(搜)",
 		"type": 0,
