@@ -124,6 +124,59 @@
 		"searchable": 1,
 		"quickSearch": 0,
 		"filterable": 1
+	},
+    {
+		"key": "csp_Enlienli",
+		"name": "嗯哩(爬虫)",
+		"type": 3,
+		"api": "csp_Enlienli",
+		"searchable": 1,
+		"quickSearch": 0,
+		"filterable": 1
+	}, {
+		"key": "淘片资源",
+		"name": "淘片",
+		"type": 0,
+		"searchable": 1,
+		"quickSearch": 1,
+		"api": "https://taopianapi.com/home/cjapi/as/mc/vod/xml",
+		"playUrl": ""
+	}, {
+		"key": "琪琪",
+		"name": "琪琪",
+		"type": 1,
+		"api": "https://www.77diany.com/api.php/provide/vod/",
+		"playUrl": "",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	}, {
+		"key": "csp_AppYsV2_超级剧场2",
+		"name": "超级剧场(2)",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "http://qqtvapp.com/xgapp.php/v1/"
+	}, {
+		"key": "csp_AppYsV2_超级剧场3",
+		"name": "超级剧场(3)",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://ytys3456.com/mogai_api.php/v1.vod"
+	}, {
+		"key": "csp_appys_超级剧场(4)",
+		"name": "超级剧场(4)",
+		"type": 3,
+		"api": "csp_AppYs",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://xays6677.com/mogai_api.php/v1.vod"
 	}, {
 		"key": "n0ys_spider",
 		"name": "90影视(爬虫)",
