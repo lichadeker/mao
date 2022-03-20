@@ -238,15 +238,6 @@
 		"api": "https://koko.renrenmi.cc/api.php/provide/vod/",
 		"playUrl": "https://jx.blbo.cc:4433/?url="
 	}, {
-		"key": "木偶",
-		"name": "木偶",
-		"type": 1,
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"api": "http://vip.muoutv.com/api.php/provide/vod/",
-		"playUrl": ""
-	}, {
 		"key": "乐多",
 		"name": "乐多",
 		"type": 0,
@@ -262,33 +253,6 @@
 		"searchable": 1,
 		"quickSearch": 0,
 		"api": "https://api.ukuapi.com/api.php/provide/vod/?ac=list",
-		"playUrl": ""
-	}, {
-		"key": "sohu",
-		"name": "sohu",
-		"type": 1,
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"api": "https://humaosp.com/mogai_api.php/provide/vod/from/sohu/",
-		"playUrl": ""
-	}, {
-		"key": "B站",
-		"name": "B站",
-		"type": 1,
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"api": "https://humaosp.com/mogai_api.php/provide/vod/from/bilibili/",
-		"playUrl": ""
-	}, {
-		"key": "西瓜",
-		"name": "西瓜",
-		"type": 1,
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"api": "https://humaosp.com/mogai_api.php/provide/vod/from/xigua/",
 		"playUrl": ""
 	}, {
 		"key": "趣看",
