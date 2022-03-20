@@ -254,15 +254,6 @@
 		"api": "https://cj.leduocaiji.com/inc/api.php",
 		"playUrl": "https://api.xxctzy.com/1.php?vid="
 	}, {
-		"key": "B站",
-		"name": "B站",
-		"type": 1,
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"api": "https://humaosp.com/mogai_api.php/provide/vod/from/bilibili/",
-		"playUrl": ""
-	}, {
 		"key": "U酷",
 		"name": "U酷",
 		"type": 1,
