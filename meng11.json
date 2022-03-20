@@ -140,185 +140,77 @@
 		"filterable": 1,
 		"ext": "https://cncncloud.com/api/v3/file/source/3064602/90%E5%BD%B1%E8%A7%86.json?sign=Qo722u2P0WOUKzrHwv_1W2_Lwo-1GF0m0beGLIx8MnA%3D%3A0"
 	}, {
-		"key": "csp_appys_春1",
-		"name": "影视库【1】",
+		"searchable": "1",
+		"quickSearch": "1",
+		"api": "csp_AppYs",
+		"filterable": "1",
+		"ext": "https://myaixixi.com/api.php/app/",
+		"key": "csp_猫群-----------贺岁1",
+		"type": "3",
+		"name": "猫迷剧场【1】"
+	}, {
+		"searchable": "1",
+		"quickSearch": "1",
+		"api": "csp_AppYs",
+		"filterable": "1",
+		"ext": "https://www.bcwzg.com/api.php/app/",
+		"key": "csp_猫群-----------贺岁2",
+		"type": "3",
+		"name": "猫迷剧场【2】"
+	}, {
+		"key": "csp_appys_猫群-----------贺岁3",
+		"name": "猫迷剧场【3】",
 		"type": 3,
-		"api": "csp_SPYs",
+		"api": "csp_AppYs",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "pglblb_c1"
+		"ext": "http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"
 	}, {
-		"key": "csp_appys_春2",
-		"name": "影视库【2】",
+		"key": "csp_appys_猫群-----------贺岁88",
+		"name": "猫迷剧场【4】",
 		"type": 3,
-		"api": "csp_SPYs",
+		"api": "csp_AppYs",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "pglblb_c2"
+		"ext": "https://l0l.tv/api.php/v1.vod"
 	}, {
-		"key": "csp_appys_春3",
-		"name": "影视库【3】",
+		"key": "csp_appys_猫群-----------贺岁5",
+		"name": "猫迷剧场【5】",
 		"type": 3,
-		"api": "csp_SPYs",
+		"api": "csp_AppYs",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "pglblb_c3"
+		"ext": "https://www.u23c.com/api.php/app/"
 	}, {
-		"key": "csp_appys_春4",
-		"name": "影视库【4】",
+		"key": "csp_xpath_猫群-----------贺岁6",
+		"name": "猫迷剧场【6】",
 		"type": 3,
-		"api": "csp_SPYs",
+		"api": "csp_XPath",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0,
+		"ext": "https://cncncloud.com/api/v3/file/source/3064146/348lg.json?sign=x2kNos0rYSh68lfRPqjfbB0xKpsVeI0IfPdKn8zAs-4%3D%3A0"
+	}, {
+		"key": "csp_appys_猫群-----------贺岁7",
+		"name": "猫迷剧场【7】",
+		"type": 3,
+		"api": "csp_AppYs",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "pglblb_c4"
+		"ext": "https://xays6677.com/mogai_api.php/v1.vod"
 	}, {
-		"key": "csp_appys_春5",
-		"name": "影视库【5】",
+		"key": "csp_appys_猫群-----------贺岁8",
+		"name": "猫迷剧场【8】",
 		"type": 3,
-		"api": "csp_SPYs",
+		"api": "csp_AppYs",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "pglblb_c5"
-	}, {
-		"key": "csp_appys_夏1",
-		"name": "影视库【6】",
-		"type": 3,
-		"api": "csp_SPYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "pglblb_x1"
-	}, {
-		"key": "csp_appys_夏2",
-		"name": "影视库【7】",
-		"type": 3,
-		"api": "csp_SPYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "pglblb_x2"
-	}, {
-		"key": "csp_appys_夏3",
-		"name": "影视库【8】",
-		"type": 3,
-		"api": "csp_SPYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "pglblb_x3"
-	}, {
-		"key": "csp_appys_夏4",
-		"name": "影视库【9】",
-		"type": 3,
-		"api": "csp_SPYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "pglblb_x4"
-	}, {
-		"key": "csp_appys_夏5",
-		"name": "影视库【10】",
-		"type": 3,
-		"api": "csp_SPYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "pglblb_x5"
-	}, {
-		"key": "csp_appys_秋1",
-		"name": "影视库【11】",
-		"type": 3,
-		"api": "csp_SPYs",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "pglblb_q1"
-	}, {
-		"key": "csp_appys_秋2",
-		"name": "影视库【12】",
-		"type": 3,
-		"api": "csp_SPYs",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "pglblb_q2"
-	}, {
-		"key": "csp_appys_秋3",
-		"name": "影视库【13】",
-		"type": 3,
-		"api": "csp_SPYs",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "pglblb_q3"
-	}, {
-		"key": "csp_appys_秋4",
-		"name": "影视库【14】",
-		"type": 3,
-		"api": "csp_SPYs",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "pglblb_q4"
-	}, {
-		"key": "csp_appys_秋5",
-		"name": "影视库【15】",
-		"type": 3,
-		"api": "csp_SPYs",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "pglblb_q5"
-	}, {
-		"key": "csp_appys_冬1",
-		"name": "影视库【16】",
-		"type": 3,
-		"api": "csp_SPYs",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "pglblb_d1"
-	}, {
-		"key": "csp_appys_冬2",
-		"name": "影视库【17】",
-		"type": 3,
-		"api": "csp_SPYs",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "pglblb_d2"
-	}, {
-		"key": "csp_appys_冬3",
-		"name": "影视库【18】",
-		"type": 3,
-		"api": "csp_SPYs",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "pglblb_d3"
-	}, {
-		"key": "csp_appys_冬4",
-		"name": "影视库【19】",
-		"type": 3,
-		"api": "csp_SPYs",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "pglblb_d4"
-	}, {
-		"key": "csp_appys_冬5",
-		"name": "影视库【20】",
-		"type": 3,
-		"api": "csp_SPYs",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "pglblb_d5"
+		"ext": "https://ys.zhuiya.vip/xgapp.php/v1/"
 	}, {
 		"key": "木偶",
 		"name": "木偶",
