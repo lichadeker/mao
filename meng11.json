@@ -1,13 +1,12 @@
 {
     "sites": [{
-		"key": "csp_xpath_01-猫群自维护源00",
+		"key": "csp_Auete",
 		"name": "Meng的影视库3-20",
 		"type": 3,
-		"api": "csp_XPath",
-		"searchable": 0,
+		"api": "csp_Auete",
+		"searchable": 1,
 		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "http://www.maotv.club/json/00-%E9%AA%9A%E7%81%AB.json"
+		"filterable": 1
 	},{
 		"key": "csp_xpath_猫群专用工厂",
 		"name": "影视工厂",
