@@ -1,9 +1,9 @@
 {
     "sites": [{
-		"key": "csp_Auete",
+		"key": "csp_Enlienli",
 		"name": "Meng的影视库3-20",
 		"type": 3,
-		"api": "csp_Auete",
+		"api": "csp_Enlienli",
 		"searchable": 1,
 		"quickSearch": 0,
 		"filterable": 1
