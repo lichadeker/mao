@@ -21,6 +21,16 @@
             "ext": "http://www.maotv.club/json/01-%E4%B9%90%E7%8C%AAtv.json"
         },
         {
+		"key": "csp_appys_春1",
+		"name": "春【1】",
+		"type": 3,
+		"api": "csp_SPYs",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "pglblb_c1"
+	},
+        {
             "key": "csp_Buka",
             "name": "不卡(爬虫)",
             "type": 3,
