@@ -8,7 +8,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://pglblb.coding.net/p/maotv/d/json/git/raw/master/10-%E4%B8%8D%E5%BC%80vip.json?download=false"
-	},  {
+	    },  {
             "key": "csp_Buka",
             "name": "不卡(爬虫)",
             "type": 3,
@@ -16,8 +16,16 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
-        },
-    {
+        }, {
+            "key": "csp_xpath_猫群自维护源02",
+            "name": "极品",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://www.maotv.club/json/02-%E6%9E%81%E5%93%81%E6%9E%81%E9%93%BE_20220312.json"
+        }, {
 		"key": "csp_xpath_猫群专用工厂",
 		"name": "影视工厂",
 		"type": 3,
