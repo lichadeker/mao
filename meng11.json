@@ -1,12 +1,13 @@
 {
     "sites": [{
-		"key": "csp_Enlienli",
-		"name": "Meng的影视库3-20",
-		"type": 3,
-		"api": "csp_Enlienli",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1
+		"key": "csp_xpath_01-猫群自维护源10",
+            "name": "Meng22的影视库3-23",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://pglblb.coding.net/p/maotv/d/json/git/raw/master/10-%E4%B8%8D%E5%BC%80vip.json?download=false"
 	},{
 		"key": "csp_xpath_猫群专用工厂",
 		"name": "影视工厂",
