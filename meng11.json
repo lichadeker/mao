@@ -16,79 +16,16 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
-        }, {
-            "key": "csp_xpath_猫群自维护源02",
-            "name": "极品",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://www.maotv.club/json/02-%E6%9E%81%E5%93%81%E6%9E%81%E9%93%BE_20220312.json"
-        }, {
-		"key": "csp_xpath_猫群专用工厂",
-		"name": "影视工厂",
-		"type": 3,
-		"api": "csp_XPath",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://cncncloud.com/api/v3/file/source/3064301/ysgc.json?sign=rOLxUlH1hroPp-1tqLAQxkw_B-EORt_B9K61gSNQK6o%3D%3A0"
-	}, {
-		"key": "csp_xpath_猫群自维护专用源shtv",
-		"name": "骚火电影",
-		"type": 3,
-		"api": "csp_XPath",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://cncncloud.com/api/v3/file/source/3064147/shdy.json?sign=YHhLfP44aWq8SFeI8-j8-hJA8W6_Mw2z2euirYeJ7E4%3D%3A0"
-	}, {
-		"key": "csp_xpath_猫群专用乐猪",
-		"name": "乐猪TV(XP)",
-		"type": 3,
-		"api": "csp_XPathMac",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://cncncloud.com/api/v3/file/source/3064148/lztv.json?sign=hJkrIp_psjPbBl5_62UxBNPzDkkEsldJh6RigS1twKY%3D%3A0"
-	}, {
-		"key": "喵派蓝光(感谢github相关原创作者)",
-		"name": "喵派蓝光",
-		"type": 1,
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"api": "https://maoyingshi-api.tvan.xyz/api.php/provide/vod/",
-		"playUrl": "https://vip.aiaine.com/api/?type=app&key=ESnBC3t7IxnnHAziyU&url="
-	}, {
-		"key": "csp_appys_超级剧场",
-		"name": "超级剧场(搜)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://ccxg.xazhutu.com/xgapp.php/v1/"
-	}, {
-		"key": "csp_yinghua",
-		"name": "樱花动漫(XP)",
-		"type": 3,
-		"api": "csp_XPath",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://cncncloud.com/api/v3/file/source/3064155/yhdm.json?sign=D7Ln4EnjZILBPy7fHx4p6LCFTBOBKDkdoCgwI3WYyZA%3D%3A0"
-	}, {
-		"key": "csp_猫群专用动漫bus",
-		"name": "动漫巴士(XP)",
-		"type": 3,
-		"api": "csp_XPath",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://cncncloud.com/api/v3/file/source/3064473/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json?sign=QwPfl0Tr7SHXn-SwPxVOKjtsPsM1oXETiclj9CWT8rw%3D%3A0"
-	}, {
+        },  {
+      "key": "csp_xpath_01-猫群自维护源00",
+      "name": "骚火",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://pglblb.coding.net/p/maotv/d/js/git/raw/master/00-%E9%AA%9A%E7%81%AB.js?download=false"
+    },  {
 		"key": "csp_appys_v1_皮皮动漫",
 		"name": "皮皮动漫(搜)",
 		"type": 3,
@@ -97,16 +34,7 @@
 		"quickSearch": 0,
 		"filterable": 1,
 		"ext": "http://dm.muying.me/mogai_api.php/v1.vod"
-	}, {
-		"key": "csp_appys_v1_菜鸟动漫",
-		"name": "菜鸟动漫(搜)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "http://taikong.huangguay.com/mogai_api.php/v1.vod"
-	}, {
+	},  {
 		"key": "csp_appys_v1_熊猫动漫",
 		"name": "熊猫动漫(搜)",
 		"type": 3,
@@ -158,33 +86,6 @@
 		"quickSearch": 1,
 		"filterable": 0
 	}, {
-		"key": "csp_AppYsV2_超级剧场2",
-		"name": "超级剧场(2)",
-		"type": 3,
-		"api": "csp_AppYsV2",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://qqtvapp.com/xgapp.php/v1/"
-	}, {
-		"key": "csp_AppYsV2_超级剧场3",
-		"name": "超级剧场(3)",
-		"type": 3,
-		"api": "csp_AppYsV2",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://ytys3456.com/mogai_api.php/v1.vod"
-	}, {
-		"key": "csp_appys_超级剧场(4)",
-		"name": "超级剧场(4)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://xays6677.com/mogai_api.php/v1.vod"
-	}, {
 		"key": "csp_xpath_猫群自维护源04",
 		"name": "在线",
 		"type": 3,
@@ -203,24 +104,6 @@
 		"filterable": 1,
 		"ext": "http://www.maotv.club/json/06_%E4%B9%85%E4%B9%85%E7%9C%8B%E7%89%87.json"
 	}, {
-		"key": "csp_xpath_猫群自维护源07",
-		"name": "libvo",
-		"type": 3,
-		"api": "csp_XPath",
-		"searchable": 1,
-		"searchable": 1,
-		"filterable": 1,
-		"ext": "http://www.maotv.club/json/07-libvio.json"
-	}, {
-		"key": "csp_xpath_猫群自维护源09",
-		"name": "美人",
-		"type": 3,
-		"api": "csp_XPath",
-		"searchable": 1,
-		"searchable": 1,
-		"filterable": 1,
-		"ext": "http://www.maotv.club/json/09-%E4%BA%BA%E4%BA%BA.json"
-	}, {
 		"key": "csp_xpath_猫群自维护源05",
 		"name": "剧荒",
 		"type": 3,
@@ -229,31 +112,7 @@
 		"searchable": 1,
 		"filterable": 1,
 		"ext": "http://www.maotv.club/json/05-%E5%89%A7%E8%8D%92.json"
-	}, {
-		"key": "n0ys_spider",
-		"name": "90影视(爬虫)",
-		"type": 3,
-		"api": "csp_N0ys",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://cncncloud.com/api/v3/file/source/3064602/90%E5%BD%B1%E8%A7%86.json?sign=Qo722u2P0WOUKzrHwv_1W2_Lwo-1GF0m0beGLIx8MnA%3D%3A0视",
-		"type": 3,
-		"api": "csp_N0ys",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://cncncloud.com/api/v3/file/source/3064602/90%E5%BD%B1%E8%A7%86.json?sign=Qo722u2P0WOUKzrHwv_1W2_Lwo-1GF0m0beGLIx8MnA%3D%3A0"
-	}, {
-		"key": "人人",
-		"name": "人人",
-		"type": 1,
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"api": "https://koko.renrenmi.cc/api.php/provide/vod/",
-		"playUrl": "https://jx.blbo.cc:4433/?url="
-	}, {
+	},  {
 		"key": "乐多",
 		"name": "乐多",
 		"type": 0,
@@ -271,14 +130,6 @@
 		"api": "https://api.ukuapi.com/api.php/provide/vod/?ac=list",
 		"playUrl": ""
 	}, {
-		"key": "趣看",
-		"name": "趣看",
-		"type": 1,
-		"api": "http://qkmp4.cn/api.php/provide/vod/",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1
-	}, {
 		"key": "春天",
 		"name": "春天",
 		"type": 1,
@@ -295,25 +146,7 @@
 		"quickSearch": 0,
 		"filterable": 1,
 		"ext": "http://dsxtv.tv.ci/api.php/dsx/vod/"
-	}, {
-		"key": "csp_appys_菜鸟",
-		"name": "菜鸟",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "http://81.71.18.95:5555/mogai_api.php/v1.vod"
-	}, {
-		"key": "csp_appys_嘀哩",
-		"name": "嘀哩",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "http://dilidili.la/api.php/app/"
-	}, {
+	},  {
 		"key": "csp_appys_天天",
 		"name": "天天",
 		"type": 3,
@@ -332,32 +165,6 @@
 		"filterable": 1,
 		"ext": "http://chaorenbb.com/api.php/v1.vod"
 	}, {
-		"key": "csp_appys_v1_爱美剧",
-		"name": "爱美剧(搜)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://meijuchong.com/api.php/v1.vod"
-	}, {
-		"key": "人人咪",
-		"name": "人人咪(搜)",
-		"type": 0,
-		"searchable": 1,
-		"quickSearch": 1,
-		"api": "https://video.yingworld.vip/api.php/provide/vod/from/renrenmi/at/xml",
-		"playUrl": ""
-	}, {
-		"key": "csp_appys_xiaogui_桃花影视",
-		"name": "桃花影视(搜)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://qqtvapp.com/xgapp.php/v1/"
-	}, {
 		"key": "csp_appys_xiaogui_大地影视",
 		"name": "大地影视(搜）",
 		"type": 3,
@@ -366,16 +173,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://www.tkys.tv/xgapp.php/v1/"
-	}, {
-		"key": "csp_appys_xiaogui_兄弟影视",
-		"name": "兄弟影视(搜)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://x.dmntv.com/api.php/app/"
-	}, {
+	},  {
 		"key": "csp_appys_xiaogui_牛逼TV",
 		"name": "牛逼TV(搜)",
 		"type": 3,
@@ -384,16 +182,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://app.feifan.live:2087/xgapp.php/v1/"
-	}, {
-		"key": "csp_appys_我来追剧",
-		"name": "我来追剧(搜)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://zgjxdtg.cn/ruifenglb_api.php/v1.vod"
-	}, {
+	},  {
 		"key": "csp_appys_v1_拳头影视",
 		"name": "拳头影视(搜)",
 		"type": 3,
@@ -411,16 +200,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://www.mczdyw.com/api.php/app/"
-	}, {
-		"key": "csp_appys_xiaogui_爱你影视",
-		"name": "爱你影视(搜)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://aidi.fun/xgapp.php/v1/"
-	}, {
+	},  {
 		"key": "csp_appys_v1_雪花资源",
 		"name": "雪花资源(搜)",
 		"type": 3,
@@ -438,24 +218,6 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://vip.ruifenglb.com:4433/api.php/app/"
-	}, {
-		"key": "csp_appys_xiaogui_万达院线",
-		"name": "万达院线(搜)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://app.lovetv.online/api.php/app/"
-	}, {
-		"key": "csp_appys_v1_睡前电影",
-		"name": "睡前电影(搜)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://summ.vip/api.php/v1.vod"
 	}, {
 		"key": "csp_appys_猫群源pdeys",
 		"name": "片多影视(搜)",
@@ -483,16 +245,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "http://aliyun.k8aa.com/mogai_api.php/v1.vod"
-	}, {
-		"key": "csp_appys_xiaogui_我爱跟剧",
-		"name": "我爱跟剧(搜)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://xg.5imv.net/api.php/app/"
-	}, {
+	},  {
 		"key": "csp_appys_猴哥电影",
 		"name": "猴哥电影(搜)",
 		"type": 3,
@@ -501,16 +254,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "http://42.157.129.15:34444/lvdou_api.php/v1.vod"
-	}, {
-		"key": "csp_appys_大象视频",
-		"name": "大象视频(搜)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://humaosp.com/mogai_api.php/v1.vod"
-	}, {
+	},  {
 		"key": "csp_appys_最爱影迷",
 		"name": "最爱影迷(搜)",
 		"type": 3,
@@ -547,60 +291,6 @@
 		"filterable": 1,
 		"ext": "https://dxys2233.com/mogai_api.php/v1.vod"
 	}, {
-		"key": "csp_appys_v1_瞎子追剧",
-		"name": "瞎子追剧(搜)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://douzhayss.cc/api.php/v1.vod"
-	}, {
-		"key": "csp_appys_v1_追着看",
-		"name": "追着看(搜)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://app.fkkdy.vip/mogai_api.php/v1.vod"
-	}, {
-		"key": "csp_appys_南极光",
-		"name": "南极光(搜)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://app.winxz.cc/api.php/v1.vod"
-	}, {
-		"key": "csp_appys_v1_北极熊",
-		"name": "北极熊(搜)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://app.8d8q.com/api.php/v1.vod"
-	}, {
-		"key": "csp_appys_追影狗",
-		"name": "追影狗(搜)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://tv.kmtvb.com/api.php/v1.vod"
-	}, {
-		"key": "csp_appys_思影视",
-		"name": "思影视(搜)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://app.siqitv.vip/mogai_api.php/v1.vod"
-	}, {
 		"key": "csp_appys_xiaogui_快影音",
 		"name": "快影音(搜)",
 		"type": 3,
@@ -628,24 +318,6 @@
 		"filterable": 1,
 		"ext": "http://ttzmz.net/api.php/v1.vod"
 	}, {
-		"key": "csp_appys_心影视",
-		"name": "心影视(搜)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://www.18mv.club/api.php/v1.vod"
-	}, {
-		"key": "csp_appys_v1_全能看",
-		"name": "全能看(搜)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://qnys5566.com/mogai_api.php/v1.vod"
-	}, {
 		"key": "csp_appys_追剧王",
 		"name": "追剧王(搜)",
 		"type": 3,
@@ -655,16 +327,6 @@
 		"filterable": 1,
 		"ext": "http://app1.udo.cc/api.php/app/"
 	}, {
-		"key": "七七电影xml",
-		"name": "七七电影(搜)",
-		"type": 0,
-		"api": "https://www.77diany.com/api.php/provide/vod/at/xml/",
-		"playUrl": "",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"categories": []
-	}, {
 		"key": "云海官采",
 		"name": "云海官采(xml)",
 		"type": 1,
@@ -673,16 +335,7 @@
 		"filterable": 1,
 		"api": "http://101.34.7.151:600/api.php/provide/vod/",
 		"playUrl": "http://47.100.138.210:92/?url="
-	}, {
-		"key": "雪人官采",
-		"name": "雪人官采(搜)",
-		"type": 0,
-		"api": "https://zl.qd234.cn/api.php/provide/vod/at/xml",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"playUrl": ""
-	}, {
+	},  {
 		"key": "星一官采(xml)",
 		"name": "星一官采(搜)",
 		"type": 0,
@@ -710,24 +363,6 @@
 		"filterable": 1,
 		"ext": "https://vip.ruifenglb.com:4433/api.php/app/"
 	}, {
-		"key": "csp_appys_猫群源kmys",
-		"name": "可米资源(M)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "http://sj.kmys.vip/ruifenglb_api.php/v1.vod"
-	}, {
-		"key": "csp_appys_猫群源mzys",
-		"name": "木子影视(M)",
-		"type": 3,
-		"api": "csp_AppYs",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "http://www.muzidy.top/mogai_api.php/v1.vod"
-	}, {
 		"searchable": "1",
 		"quickSearch": "0",
 		"api": "csp_AppYs",
@@ -745,24 +380,6 @@
 		"key": "csp_优质_柠柚影视",
 		"type": "3",
 		"name": "柠柚影视(M)"
-	}, {
-		"key": "csp_xpath_ftyy",
-		"name": "饭团影院(XP)",
-		"type": 3,
-		"api": "csp_XPath",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 0,
-		"ext": "https://cncncloud.com/api/v3/file/source/3066608/%E9%A5%AD%E5%9B%A2%E5%BD%B1%E9%99%A2.json?sign=XkhkjQ0TSEa6fct-Iw5EtBkHX45tJj82ldYWqD98BSc%3D%3A0"
-	}, {
-		"key": "csp_xpath_1090ys2",
-		"name": "1090影视(XPMac)",
-		"type": 3,
-		"api": "csp_XPathMac",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://cncncloud.com/api/v3/file/source/3064601/1090%E5%BD%B1%E8%A7%86.json?sign=zsdUrAf9e_h_2L5eCDloTbd03dy-11XD8ZbF2N2zkEo%3D%3A0"
 	}],
 	"lives": [{
 		"group": "redirect",
