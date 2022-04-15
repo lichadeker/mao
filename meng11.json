@@ -8,7 +8,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://pglblb.coding.net/p/maotv/d/json/git/raw/master/10-%E4%B8%8D%E5%BC%80vip.json?download=false"
-	    },  {
+	    }, 
+        {
+			"key": "会员",
+			"name": "会员",
+			"type": 1,
+			"api": "https://gfzycj.hnmj.vip/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+         {
             "key": "csp_Buka",
             "name": "不卡(爬虫)",
             "type": 3,
